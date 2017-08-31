@@ -1,3 +1,4 @@
 .env
+.passwd
 vendor/
 composer.lock
